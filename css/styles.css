@@ -1,0 +1,114 @@
+/***********************************TAG SELECTORS***********************************/
+body {
+  background-color: #EAF6F6;
+}
+
+hr {
+  background-color: #EAF6F6;
+  width: 50%;
+  border-style: dotted none none none;
+  border-color: #66BFBF;
+  border-width: 8px;
+}
+
+table {
+  background-color: #EAF6F6;
+  transition: background-color .75s;
+}
+
+h1 {
+  color: #478978;
+  font-size: 60px;
+  border: double thick;
+  border-width: 12px 0 12px 0;
+  transition: color .55s;
+}
+
+h1:hover {
+  color: #AF929D;
+}
+
+h3 {
+  color: #478978;
+}
+
+p {
+  color: #478978;
+}
+
+img {
+  height: 90px;
+  width: 100px;
+}
+
+img:hover {
+background-color:#AF929D;
+}
+
+ul {
+  color: #478978;
+}
+
+li {
+  color: #478978;
+}
+
+div {
+  margin-left: 200px;
+  margin-right: 250px;
+}
+
+a {
+  color: purple;
+}
+
+/***********************************CLASS SELECTORS***********************************/
+.gradcap {
+  background-color: #4A6C5F;
+}
+
+.flower {
+  background-color: #52154E;
+}
+
+.circular {
+  border-radius: 100%
+}
+
+.circular1 {
+  border-radius: 10%
+}
+
+.ttable:hover {
+  background-color: #8dc0b9;
+  color: #f6edea;
+}
+
+
+.one {
+  color: #9D4EDD;
+}
+
+.two {
+  color: #7B2CBF;
+}
+
+.three {
+  color: #5A189A;
+}
+
+.four {
+  color: #3C096C;
+}
+
+.five {
+  color: #240046;
+}
+
+/***********************************ID SELECTORS***********************************/
+
+/* #heading {
+  color: #478978;
+}
+
+*/
